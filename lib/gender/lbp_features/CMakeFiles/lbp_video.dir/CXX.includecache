@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ajax/Dropbox/work/face_gender/facegender/lib/genderclass/lbp-features-code/histogram.cpp
+histogram.hpp
+/home/ajax/Dropbox/work/face_gender/facegender/lib/genderclass/lbp-features-code/histogram.hpp
+vector
+-
+
+/home/ajax/Dropbox/work/face_gender/facegender/lib/genderclass/lbp-features-code/histogram.hpp
+opencv2/opencv.hpp
+/home/ajax/Dropbox/work/face_gender/facegender/lib/genderclass/lbp-features-code/opencv2/opencv.hpp
+limits
+-
+
+/home/ajax/Dropbox/work/face_gender/facegender/lib/genderclass/lbp-features-code/lbp.cpp
+lbp.hpp
+/home/ajax/Dropbox/work/face_gender/facegender/lib/genderclass/lbp-features-code/lbp.hpp
+
+/home/ajax/Dropbox/work/face_gender/facegender/lib/genderclass/lbp-features-code/lbp.hpp
+opencv2/opencv.hpp
+-
+limits
+-
+
+/home/ajax/Dropbox/work/face_gender/facegender/lib/genderclass/lbp-features-code/lbp_video.cpp
+opencv2/opencv.hpp
+/home/ajax/Dropbox/work/face_gender/facegender/lib/genderclass/lbp-features-code/opencv2/opencv.hpp
+opencv/highgui.h
+/home/ajax/Dropbox/work/face_gender/facegender/lib/genderclass/lbp-features-code/opencv/highgui.h
+lbp.hpp
+/home/ajax/Dropbox/work/face_gender/facegender/lib/genderclass/lbp-features-code/lbp.hpp
+histogram.hpp
+/home/ajax/Dropbox/work/face_gender/facegender/lib/genderclass/lbp-features-code/histogram.hpp
+

@@ -1,0 +1,4 @@
+/home/ajax/Dropbox/work/face_gender/facegender/lib/genderclass/lbp-features-code/CMakeFiles/rebuild_cache.dir
+/home/ajax/Dropbox/work/face_gender/facegender/lib/genderclass/lbp-features-code/CMakeFiles/lbp_image.dir
+/home/ajax/Dropbox/work/face_gender/facegender/lib/genderclass/lbp-features-code/CMakeFiles/edit_cache.dir
+/home/ajax/Dropbox/work/face_gender/facegender/lib/genderclass/lbp-features-code/CMakeFiles/lbp_video.dir

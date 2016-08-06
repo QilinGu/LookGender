@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC  -std=c++11   -shared -Wl,-soname,libGenderClassify.so -o libGenderClassify.so CMakeFiles/GenderClassify.dir/src/gender_classification.o CMakeFiles/GenderClassify.dir/src/histogram.o CMakeFiles/GenderClassify.dir/src/lbp.o 
